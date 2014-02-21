@@ -1,4 +1,4 @@
-GitHub Tutorial
+GitHub Tutrial
 ===============
 
 ##Objective
